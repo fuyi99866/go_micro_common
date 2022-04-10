@@ -1,4 +1,4 @@
-module fy-common
+module common
 
 go 1.16
 
