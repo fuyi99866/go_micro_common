@@ -1,4 +1,4 @@
-module common
+module github.com/fuyi99866/go_micro_common/common
 
 go 1.16
 
